@@ -9,21 +9,21 @@ export const Portafolio = () => {
   return (
     
     <div className='portafolio'>
-      <nav id="navbar-example2" class="navbar bg-body-tertiary">
-  <ul class="nav nav-pills">
-    <li class="nav-item">
-      <a class="nav-link" href="#contenedor1">Portafolio</a>
+      <nav id="navbar-example2" className="navbar bg-body-tertiary">
+  <ul className="nav nav-pills">
+    <li className="nav-item">
+      <a className="nav-link" href="#contenedor1">Portafolio</a>
     </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#sobremi">Sobremi</a>
+    <li className="nav-item">
+      <a className="nav-link" href="#sobremi">Sobremi</a>
     </li>
-    <li class="nav-item dropdown">
-      <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Menu</a>
-      <ul class="dropdown-menu">
-        <li><a class="dropdown-item" href="#habilidades">Habilidades</a></li>
-        <li><a class="dropdown-item" href="#container-pro">Proyectos</a></li>
-        <li><hr class="dropdown-divider"/></li>
-        <li><a class="dropdown-item" href="#contactos-pro">Contactos</a></li>
+    <li className="nav-item dropdown">
+      <a className="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Menu</a>
+      <ul className="dropdown-menu">
+        <li><a className="dropdown-item" href="#habilidades">Habilidades</a></li>
+        <li><a className="dropdown-item" href="#container-pro">Proyectos</a></li>
+        <li><hr className="dropdown-divider"/></li>
+        <li><a className="dropdown-item" href="#contactos-pro">Contactos</a></li>
       </ul>
     </li>
   </ul>
