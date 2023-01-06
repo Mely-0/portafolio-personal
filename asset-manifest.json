@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portafolio-personal/static/css/main.db4b19a6.css",
-    "main.js": "/portafolio-personal/static/js/main.9cf6fdd7.js",
-    "static/js/787.ae0d8d37.chunk.js": "/portafolio-personal/static/js/787.ae0d8d37.chunk.js",
-    "static/media/melany.jpg": "/portafolio-personal/static/media/melany.1aee61b03d79db2e06c5.jpg",
-    "static/media/react2.png": "/portafolio-personal/static/media/react2.1f52ca253ce403eacf05.png",
-    "static/media/fotico.jpg": "/portafolio-personal/static/media/fotico.14ded1a5063e40362177.jpg",
-    "static/media/css2.png": "/portafolio-personal/static/media/css2.7654ce00c5ac2e76e015.png",
-    "static/media/html2.png": "/portafolio-personal/static/media/html2.31497a13d5b51cea9b7d.png",
-    "index.html": "/portafolio-personal/index.html",
-    "main.db4b19a6.css.map": "/portafolio-personal/static/css/main.db4b19a6.css.map",
-    "main.9cf6fdd7.js.map": "/portafolio-personal/static/js/main.9cf6fdd7.js.map",
-    "787.ae0d8d37.chunk.js.map": "/portafolio-personal/static/js/787.ae0d8d37.chunk.js.map"
+    "main.css": "/static/css/main.6b418048.css",
+    "main.js": "/static/js/main.adb743d0.js",
+    "static/js/787.ae0d8d37.chunk.js": "/static/js/787.ae0d8d37.chunk.js",
+    "static/media/melany.jpg": "/static/media/melany.1aee61b03d79db2e06c5.jpg",
+    "static/media/react2.png": "/static/media/react2.1f52ca253ce403eacf05.png",
+    "static/media/fotico.jpg": "/static/media/fotico.14ded1a5063e40362177.jpg",
+    "static/media/css2.png": "/static/media/css2.7654ce00c5ac2e76e015.png",
+    "static/media/html2.png": "/static/media/html2.31497a13d5b51cea9b7d.png",
+    "index.html": "/index.html",
+    "main.6b418048.css.map": "/static/css/main.6b418048.css.map",
+    "main.adb743d0.js.map": "/static/js/main.adb743d0.js.map",
+    "787.ae0d8d37.chunk.js.map": "/static/js/787.ae0d8d37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db4b19a6.css",
-    "static/js/main.9cf6fdd7.js"
+    "static/css/main.6b418048.css",
+    "static/js/main.adb743d0.js"
   ]
 }
